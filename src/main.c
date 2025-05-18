@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int test()
+int main(int argc, char** argv)
 {
     printf("Hello from dummy package!\n");
     return 0;
