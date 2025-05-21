@@ -1,4 +1,11 @@
 {
-  "name": "dummy",
-  "version": "0.1.0"
+    "name": "dummy",
+    "version": "0.1.0",
+    "url": "https://github.com/f3fe-hash/dummy-package",
+    "compile-time":
+    {
+        "compile-script": "compile.sh",
+        "compile-dir": "dummy-compiled",
+        "executable": "dummy"
+    }
 }
